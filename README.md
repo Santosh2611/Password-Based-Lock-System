@@ -1,0 +1,2 @@
+# Password-Based-Lock-System
+An automatic lock system consists of an electronic control assembly that controls the output load through a password. This output load can be a motor or a lamp or any other mechanical/electrical load. Here we develop an electronic code lock system using ARM7 (LPC2148), which provides control to actuating the load. It is a simple embedded system with input from the keypad and the output being actuated accordingly.
