@@ -1,2 +1,3 @@
 A mini-embedded C project based on an automatic door lock system that takes a four-digit password as input and loads the output. NXP's LPC2148 Microcontroller is used to actuate the load, a phone keypad to get input from the user and a DC motor to unlock the door. An LCD module is also connected to display the required information.
+
 Once the correct code or password is entered, the door is opened, and the concerned person is allowed access to the secured area. Again, if another person arrives, it will ask to enter the password. If the password is wrong, then the door would remain closed, thereby denying access to the person.
